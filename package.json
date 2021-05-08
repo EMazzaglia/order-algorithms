@@ -4,6 +4,8 @@
   "description": "order algorithms with their complexity",
   "main": "index.js",
   "scripts": {
+    "local": "nodemon --watch . index.js",  
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/EMazzaglia/order-algorithms/issues"
   },
-  "homepage": "https://github.com/EMazzaglia/order-algorithms#readme"
+  "homepage": "https://github.com/EMazzaglia/order-algorithms#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
