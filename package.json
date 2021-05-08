@@ -1,0 +1,22 @@
+{
+  "name": "order-algorithms",
+  "version": "1.0.0",
+  "description": "order algorithms with their complexity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EMazzaglia/order-algorithms.git"
+  },
+  "keywords": [
+    "algorithms"
+  ],
+  "author": "EMazzaglia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EMazzaglia/order-algorithms/issues"
+  },
+  "homepage": "https://github.com/EMazzaglia/order-algorithms#readme"
+}
